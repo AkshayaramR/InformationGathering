@@ -61,6 +61,11 @@ WHATWEB:
 
 ![Screenshot 2025-03-07 104644](https://github.com/user-attachments/assets/1d12cf78-6271-432a-ae48-ac47305cab4c)
 
+NETCAT:
+
+
+![Screenshot 2025-03-08 142338](https://github.com/user-attachments/assets/089a3f73-335f-4754-bebc-872d8a773aa6)
+
 
 
 TCP TRACEROUTE:
